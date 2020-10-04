@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Site link : https://thamoray.github.io/myportfolio/
+Link : https://thamoray.github.io/myportfolio/
 
 ![Image of Yaktocat](https://zupimages.net/up/20/40/svbv.png)
 
