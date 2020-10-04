@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Image of Yaktocat](https://zupimages.net/up/20/40/svbv.png)
+
+![Image of Yaktocat](https://zupimages.net/up/20/40/12zp.png)
+
+![Image of Yaktocat](https://zupimages.net/up/20/40/2zrq.png)
+
+![Image of Yaktocat](https://zupimages.net/up/20/40/9slq.png)
+
+![Image of Yaktocat](https://zupimages.net/up/20/40/l51n.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
